@@ -11,14 +11,26 @@ function isAnagram(x, y) {
 }
 
 let x = "anagram"
-let y = "nagaram"
+let y = "anagram"
 
 // 统计每个字母出现的个数
 function isAnagram2 (x, y) {
     if (x.length !== y.length) {
         return false
     }
-    
+    let hash = {}
+    for(let k of x) {
+        hash[k] =  hash[k] || 0
+        hash[k] = hash[k] + 1
+    }
+    console.log(hash)
+    for(let d of y) {
+        if(!hash[d]) {
+            return false
+        }
+        hash[d] = hash[d] - 1
+    }
+    return true
 }
 
-console.log(isAnagram(x, y))
+console.log(isAnagram2(x, y))
