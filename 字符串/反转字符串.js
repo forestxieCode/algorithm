@@ -12,5 +12,13 @@ function reverseString (arr) {
     }
     return arr
 }
+function reverseString2 (arr) {
+    for (let i=0; i< arr.length/2; i++) {
+        let tem = arr[arr.length-i-1]
+        arr[arr.length-i-1] = arr[i]
+        arr[i] = tem
+    }
+    return arr
+}
 
-console.log(reverseString(["h","e","l","l","o"]))
+console.log(reverseString2(["h","e","l","l","o"]))
