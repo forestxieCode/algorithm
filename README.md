@@ -17,4 +17,3 @@
 [字符串-strStr](https://github.com/forestxieCode/algorithm/issues/1)  
 
 
-![2313.png](https://i.loli.net/2020/07/24/xGqaHlsTgNVLUEX.png)
