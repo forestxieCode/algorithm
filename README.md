@@ -17,3 +17,8 @@
 [字符串-strStr](https://github.com/forestxieCode/algorithm/issues/1)  
 
 
+### 数组
+
+
+[数组-给定一个数组，将数组中的元素向右移动 k 个位置，其中 k 是非负数](https://github.com/forestxieCode/algorithm/issues/8)  
+
