@@ -2,7 +2,7 @@
 数据结构和算法练习
 
 
-### 跟着二毛学前端记
+### 跟着二毛学前端
 [我想做习题1](https://github.com/forestxieCode/algorithm/issues/10)  
 
 [我想做习题2](https://github.com/forestxieCode/algorithm/issues/11)  
