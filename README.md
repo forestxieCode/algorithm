@@ -9,6 +9,8 @@
 
 [我想做习题3](https://github.com/forestxieCode/algorithm/issues/12)  
 
+[我想做习题4](https://github.com/forestxieCode/algorithm/issues/13)  
+
 
 ### 字符串篇章
 [字符串-有效的字母异位词](https://github.com/forestxieCode/algorithm/issues/7)  
