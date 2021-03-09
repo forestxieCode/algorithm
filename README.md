@@ -11,6 +11,7 @@
 
 [我想做习题4](https://github.com/forestxieCode/algorithm/issues/13)  
 
+[我想做习题5](https://github.com/forestxieCode/algorithm/issues/14)  
 
 ### 字符串篇章
 [字符串-有效的字母异位词](https://github.com/forestxieCode/algorithm/issues/7)  
